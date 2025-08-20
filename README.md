@@ -1,6 +1,7 @@
 # QuickMart - E-commerce Website for Deoghar
 
-QuickMart is a lightweight e-commerce website designed specifically for Deoghar, Jharkhand and other tier 3 cities in India. It provides a fast, responsive interface optimized for lower-end devices and slower internet connections commonly found in these regions.
+QuickMart is a lightweight e-commerce website designed specifically for Deoghar, Jharkhand and other tier 3 cities in India. It
+provides a fast, responsive interface optimized for lower-end devices and slower internet connections commonly found in these regions.
 
 ## Features
 
